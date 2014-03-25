@@ -9,3 +9,4 @@ Setup
 - rvm install ruby-2.1.1
 - rvm use 2.1.1
 - gem install github-pages
+- TEST TEST TEST
