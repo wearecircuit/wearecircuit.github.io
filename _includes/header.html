@@ -1,11 +1,9 @@
 <header class="module-pageHeader">
     <div class="section">
         <ul>
-            {{ site.baseurl }}{{ page.url }}
-            <li><a href="/">Start</a></li>
-            <li><a href="tjanster">Tjänster</a></li>
-            <li><a href="kunder">Kunder</a></li>
-            <li><a href="karriar">Karriär</a></li>
+            {% for node in site.pages %}
+            <li {% if page.url == node.url %}class="active"{% endif %}><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+            {% endfor %}
         </ul>
     </div>
 </header>
