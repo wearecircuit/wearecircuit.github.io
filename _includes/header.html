@@ -2,7 +2,7 @@
     <div class="section">
         <ul>
             {% for node in site.pages %}
-            <li {% if page.url == node.url %}class="active"{% endif %}><a href="{{node.url}}" class="active">{{node.title}}</a></li>
+            <li {% if page.url == node.url %}class="active"{% endif %}><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.title}}</a></li>
             {% endfor %}
         </ul>
     </div>
