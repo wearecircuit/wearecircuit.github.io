@@ -1,9 +1,10 @@
 <header class="module-pageHeader">
     <div class="section">
         <ul>
-            {% for node in site.pages %}
-            <li {% if page.url == node.url %}class="active"{% endif %}><a href="{{ site.baseurl }}{{node.url}}" class="active">{{node.title}}</a></li>
-            {% endfor %}
+            <li {% if page.url == '/index.html' %}class="active"{% endif %}><a href="/">Start</a></li>
+            <li {% if page.url == '/karriar/index.html' %}class="active"{% endif %}><a href="/karriar">Karriär</a></li>
+            <li {% if page.url == '/kunder/index.html' %}class="active"{% endif %}><a href="/kunder">Kunder</a></li>
+            <li {% if page.url == '/tjanster/index.html' %}class="active"{% endif %}><a href="/tjanster">Tjänster</a></li>
         </ul>
     </div>
 </header>

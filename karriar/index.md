@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Kunder
+title: Karriär
 hero-heading: "Karriär"
 hero-body: "Vi söker ständigt efter talangfulla medarbetare."
 ---
