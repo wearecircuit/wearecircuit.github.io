@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        html, body, ul, li {
+            margin: 0;
+            padding: 0;
+        }
+        ul, li {
+            list-style-type:none;
+        }
+        ul {
+            height: 5px;
+            width: 100%;
+        }
+        li {
+            float: left;
+            width: 25%;
+            height: 5px;
+        }
+        #done {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="spectrum"></div>
+    <button id="done">Generate spectrum array</button>
+    <script src="http://code.jquery.com/jquery-2.1.0.min.js"></script>
+    <script src="spectrum.js"></script>
+</body>
+</html>
