@@ -27,6 +27,7 @@ Todo
 - color favicon.
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
+- Remove Widigs from people list.
 
 
 Done
