@@ -25,6 +25,8 @@ Todo
 - Make Workbuster the data source for job ads.
 - English.
 - color favicon.
+- Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
+- Add Sapa to customers. http://www.circuit.se/kunder/
 
 
 Done
