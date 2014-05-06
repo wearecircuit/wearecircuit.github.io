@@ -28,6 +28,7 @@ Todo
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
 - Remove Widigs from people list.
+- Twitter link and instagram link needs to be open in new tab
 
 
 Done
