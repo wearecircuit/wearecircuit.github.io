@@ -28,7 +28,6 @@ Todo
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
 - Remove Widigs from people list.
-- Twitter link and instagram link needs to be open in new tab
 - Added Jekyll as a CMS.
 - Switched to Github hosting.
 - Fixed colour spectrum.
@@ -37,4 +36,4 @@ Todo
 
 Done
 ----
-
+- Twitter link and instagram link needs to be open in new tab
