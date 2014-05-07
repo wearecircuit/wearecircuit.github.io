@@ -29,10 +29,11 @@ Todo
 - Add Sapa to customers. http://www.circuit.se/kunder/
 - Remove Widigs from people list.
 - Twitter link and instagram link needs to be open in new tab
+- Added Jekyll as a CMS.
+- Switched to Github hosting.
+- Fixed colour spectrum.
 
 
 Done
 ----
-- Added Jekyll as a CMS.
-- Switched to Github hosting.
-- Fixed colour spectrum.
+
