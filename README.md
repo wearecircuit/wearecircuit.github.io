@@ -32,6 +32,7 @@ Todo
 - Added Jekyll as a CMS.
 - Switched to Github hosting.
 - Fixed colour spectrum.
+- Namn och titel på personer vid hover 
 
 
 Done
