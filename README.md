@@ -13,6 +13,7 @@ Setup
 
 Todo
 ----
+- Add logo.
 - Iphone interprets org.nr as telephone. Make hello@circuit.se mailable.
 - Make sure logo links to circuit.se-root
 - Photos of all employeees, including a new picture of LSJ which is disturbing.
