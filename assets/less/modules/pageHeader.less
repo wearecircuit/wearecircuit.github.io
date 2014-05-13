@@ -1,14 +1,22 @@
 .module-pageHeader {
   margin-top: 60px;
+  position: relative;
   a {
     text-decoration: none;
     color: #000;
   }
   .siteId {
-    float: left;
+    position: absolute;
+    bottom: 0;
+    left: 60px;
     font-weight: normal;
     text-transform: uppercase;
     letter-spacing: 0.1em;
+  }
+  #siteId {
+    height: 30px;
+    width: 30px;
+    margin: 0 auto 5px;
   }
   ul {
     float: right;
@@ -21,6 +29,27 @@
         //        border-bottom: 1px solid #000;
         font-weight: bold;
       }
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .module-pageHeader {
+
+    .siteId {
+      left: 0;
+      width: 100%;
+      bottom: 25px;
+    }
+
+    ul {
+      float: none;
+      text-align: center;
+      width: 100%;
+    }
+
+    .company-name {
+      display: none;
     }
   }
 }
