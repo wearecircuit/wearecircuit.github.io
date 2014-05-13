@@ -22,7 +22,6 @@ Todo
 - color favicon.
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
-- Added Jekyll as a CMS.
 - Switched to Github hosting.
 - Namn och titel på personer vid hover
 - Be able to subscribe to newsletter.
@@ -31,8 +30,10 @@ Todo
 
 
 
+
 Done
 ----
+- Added Jekyll as a CMS.
 - Twitter link and instagram link needs to be open in new tab.
 - Add logo.
 - Iphone interprets org.nr as telephone.
@@ -40,4 +41,9 @@ Done
 - Make sure logo links to circuit.se-root
 - Remove Widigs from people list.
 - Fixed colour spectrum.
+- Add Google Analytics.
+- Add episerver page.
+- Add forvaltning.
+- Add intranet.
+- Add support.
 
