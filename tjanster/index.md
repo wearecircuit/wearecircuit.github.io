@@ -17,7 +17,7 @@ hero-body: "Med vår breda kompetens inom allt digitalt skapar vi olika webbtjä
             </header>
             <main>
                 <p>Vi är indelade i sammansvetsade kundteam som tar hand om våra kunder från start till mål. Vi tar också hand om våra kunder efter lanseringen med konceptet ››aktiv förvaltning‹‹.</p>
-                <p>Circuit är Premium Partner till <a class='js-text-01' href='/www-jekyll/episerver'>Episerver</a> och Silver Partner till Microsoft. Vi arbetar även med andra CMS, som exempelvis Umbraco och Wordpress.</p>
+                <p>Circuit är Premium Partner till <a class='js-text-01' href='/www-jekyll/episerver/'>Episerver</a> och Silver Partner till Microsoft. Vi arbetar även med andra CMS, som exempelvis Umbraco och Wordpress.</p>
                 <p>Kontakta oss om du vill veta mer om hur vi kan hjälpa dig med dina digitala utmaningar.</p>
             </main>
         </article>
