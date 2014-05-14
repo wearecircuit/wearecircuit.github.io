@@ -18,7 +18,7 @@ Todo
 - Support terms.
 - Case. (Humana, Sapa, Sony, Poolia, Northstream)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
-- Make Workbuster the data source for job ads.
+- Move to Teamtailor.
 - color favicon.
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
