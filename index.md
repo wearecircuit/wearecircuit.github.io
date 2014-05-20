@@ -18,7 +18,7 @@ hero-body: "Circuit är en digital byrå som är tillräckligt liten för att va
             <main>
                 <p>Vi tror på långsiktiga digitala tjänster, som används, och vi tror att märkbara resultat nås genom att arbeta med analys och ständiga förbättringar.</p>
                 <p>Våra kunder är allt från startups till multinationella koncerner, med det gemensamt att de vill utveckla verkligt bra digitala tjänster.</p>
-                <p>Kontakt oss om du vill veta mer om hur vi kan hjälpa dig med dina digitala utmaningar.</p>
+                <p>Kontakt  oss om du vill veta mer om hur vi kan hjälpa dig med dina digitala utmaningar.</p>
             </main>
         </article>
     </div>
