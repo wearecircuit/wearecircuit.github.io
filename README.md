@@ -20,6 +20,7 @@ Todo
 - Move to Teamtailor.
 - fix /forvaltning/ and /support/ layout
 - link to support and förvaltning
+- check with http://browsershots.org/ ie- and moblie compability etc.
 - color favicon.
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
