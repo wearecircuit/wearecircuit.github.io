@@ -14,6 +14,7 @@ Setup
 Todo
 ----
 - Photos of all employeees, including a new picture of LSJ which is disturbing.
+- /kunder/ logos "taggiga" and famous logos can be without text. Was fixed on last version.
 - Fix job ad links.
 - Case. (Humana, Sapa, Sony, Poolia, Northstream)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
