@@ -18,6 +18,8 @@ Todo
 - Case. (Humana, Sapa, Sony, Poolia, Northstream)
 - Update about Circuit on (http://www.episerver.se/Partners/Sverige/Circuit/)
 - Move to Teamtailor.
+- fix /forvaltning/ and /support/ layout
+- link to support and förvaltning
 - color favicon.
 - Remove Midnattsloppet från customers. http://www.circuit.se/kunder/
 - Add Sapa to customers. http://www.circuit.se/kunder/
@@ -25,8 +27,6 @@ Todo
 - Be able to subscribe to newsletter.
 - Easter egg memory.
 - English.
-
-
 
 
 Done
