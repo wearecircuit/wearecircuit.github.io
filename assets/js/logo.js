@@ -61,7 +61,6 @@ CircuitLogo.prototype.updateCanvasSize = function( context ) {
     canvas.width = width;
     canvas.height = height;
 
-    //window.console.log(canvas.height, canvas.width)
 
     // Handle doubled pixel ratio (retina displays)
     if(window.devicePixelRatio){
@@ -123,15 +122,11 @@ CircuitLogo.prototype.paintLogo = function( context ) {
     (function () {
         var img = document.createElement('img'),
             link = document.getElementById('favicon').cloneNode(true);
-
-        console.log('yes', context.canvas.toDataURL('image/png'));
-
-//            img.onload = function () {
+            img.onload = function () {
                 link.href = context.canvas.toDataURL('image/png');
-        console.log(link);
                 document.body.appendChild(link);
-//            };
-            img.src = 'image.png';
+            };
+            img.src = '/image.png';
 
     })();
 
