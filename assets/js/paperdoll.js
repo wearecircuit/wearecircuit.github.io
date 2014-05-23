@@ -34,7 +34,6 @@ Paperdoll.prototype.set = function(part, parts, styleClasses){
     if( styleClasses ){
     styleClass =styleClasses[Math.floor(Math.random() * styleClasses.length)];
     }
-    console.log(styleClass);
     var html = '<svg class="icon icon-' + part + ' ' + styleClass + '" viewBox="0 0 85 128"><use xlink:href="#icon-' + part + '"></use></svg>';
     this.element.innerHTML += html;
 };
