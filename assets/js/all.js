@@ -76,6 +76,12 @@ CIRCUITSE.prototype.setColours = function () {
     setStyleOnElements('color', colours[2], document.getElementsByClassName('js-text-03'));
     setStyleOnElements('color', colours[3], document.getElementsByClassName('js-text-04'));
 
+    setStyleOnElements('fill', colours[0], document.getElementsByClassName('js-bg-svg-01'));
+    setStyleOnElements('fill', colours[1], document.getElementsByClassName('js-bg-svg-02'));
+    setStyleOnElements('fill', colours[2], document.getElementsByClassName('js-bg-svg-03'));
+    setStyleOnElements('fill', colours[3], document.getElementsByClassName('js-bg-svg-04'));
+
+
 };
 
 new CIRCUITSE();
