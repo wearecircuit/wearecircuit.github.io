@@ -6,20 +6,21 @@
   position: relative;
   float: left;
 
-  .mpd-eye {
-    width: 5px;
-    height: 5px;
-    background: #f00;
-    display: block;
-    position: absolute;
-    top: 42%;
-    &.mpd-eye-left {
-      left: 32%;
-    }
-    &.mpd-eye-right {
-      right: 10%;
-    }
-  }
+//  .mpd-eye {
+//    width: 3%;
+//    height: 2%;
+//    border-radius: 999999px;
+//    background: #f00;
+//    display: block;
+//    position: absolute;
+//    top: 43%;
+//    &.mpd-eye-left {
+//      left: 30%;
+//    }
+//    &.mpd-eye-right {
+//      right: 34%;
+//    }
+//  }
 
   svg {
     width: 100%;
@@ -50,5 +51,15 @@
   .mpd-shirt-3 {   background: url('../images/paperdoll/4_shirt.svg'); }
   .mpd-shirt-4 {   background: url('../images/paperdoll/4_tie.svg'); }
 
+  .mpd-nametag {
+    border: 1px solid #000;
+    font-size: 10px;
+    padding: 2px 3px;
+    position: absolute;
+    bottom: 0;
+    z-index: 10000;
+    background: #fff;
+    left: 50%;
+  }
 
 }
